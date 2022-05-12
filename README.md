@@ -1,2 +1,2 @@
 # Actividades-de-Diseño-Web
-Pagina para realizar ejercioos de diseño web Sahid Carriel 3ero "E"
+Pagina para realizar ejercios de diseño web Sahid Carriel 3ero "E"
